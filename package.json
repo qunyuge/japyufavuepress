@@ -1,6 +1,6 @@
 {
   "name": "vuepress-starter",
-  "version": "1.0",
+  "version": "latest",
   "description": "vuepress-starter",
   "main": "index.js",
   "license": "MIT",
