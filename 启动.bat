@@ -1,2 +1,2 @@
-yarn docs:dev # npm run docs:dev
+yarn docs:dev
 pause
